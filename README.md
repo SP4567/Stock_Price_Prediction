@@ -2,7 +2,8 @@
 
 # Stock Price Prediction
 
-![Stock Price Prediction](https://via.placeholder.com/800x200.png?text=Stock+Price+Prediction)
+![image](https://github.com/user-attachments/assets/fa2ac467-acfe-4577-8c5c-1f97a94efc3c)
+
 
 ## Overview
 
